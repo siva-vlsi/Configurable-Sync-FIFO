@@ -328,7 +328,7 @@ Key observations:
 
 RTL schematic generated from Vivado's Elaborated Design view.
 
-![Schematic](docs/schematic.png)
+![image alt](https://github.com/siva-vlsi/Configurable-Sync-FIFO/blob/main/docs/schematic.png.jpg?raw=true)
 
 **Summary:** 3 Cells · 21 I/O Ports · 41 Nets
 
@@ -344,7 +344,7 @@ The schematic confirms the expected module interconnects:
 **Target Device:** Xilinx Artix-7 (XC7A35T or equivalent)  
 **Tool:** Xilinx Vivado
 
-![Synthesis Report](docs/synthesis_report.png)
+![image alt](https://github.com/siva-vlsi/Configurable-Sync-FIFO/blob/main/docs/synthesis_report.png.jpeg?raw=true)
 
 | Resource | Used | Available | Utilization |
 |----------|-----:|----------:|------------:|
