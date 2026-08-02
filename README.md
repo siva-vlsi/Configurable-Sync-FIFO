@@ -313,7 +313,7 @@ The testbench covers the following scenarios:
 
 ### Waveform
 
-![Waveform](docs/waveform.png)
+![image alt](https://github.com/siva-vlsi/Configurable-Sync-FIFO/blob/main/docs/waveform.png.jpg?raw=true)
 
 Key observations:
 - Input data sequence: `0xAA → 0x8A → 0x94 → 0xF4 → 0x0A → 0xF2 → 0xFA`
